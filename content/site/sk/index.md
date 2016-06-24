@@ -4,22 +4,23 @@
 - [ODOSLAŤ SPRÁVU](#send-a-message){: data-scroll="true" }
 - [INFORMÁCIE](#info){: data-scroll="true" }
 - [ČASTO KLADENÉ OTÁZKY](faq)
+
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Zachráňme internet
 
 {: .title-subtext}
-Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telekomunikačným korporáciám moc
-ovplyvňovať to, čo môžeme (a nemôžeme) robiť online. Európa naliehavo potrebuje jasné pravidlá v súvislosti s neutralitou siete
-na ochranu našich online práv a slobôd. Do __júla__ môžeme pomôcť Európe chrániť otvorený internet.
-<br><br>
-Pripojiť sa k nášmu hnutiu, konajte teraz!
+Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telekomunikačným korporáciám moc ovplyvňovať to, čo môžeme (a nemôžeme) robiť online. Európa naliehavo potrebuje jasné pravidlá v súvislosti s neutralitou siete na ochranu našich online práv a slobôd. Do __júla__ môžeme pomôcť Európe chrániť otvorený internet.
+<br>
+<strong>Pripojiť sa k nášmu hnutiu, konajte teraz!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | ĽUDÍ <br> POSLALO SPRÁVY | Y | DNÍ <br> ZOSTÁVA |
-
-[Prijať Opatrenia](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -62,22 +63,18 @@ Znie to, ako by ste dostali niečo zadarmo, no Váš mobilný operátor sa vďak
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Povedzte Vašim národným regulačným orgánom a <br> BEREC, že chcete chrániť neutralitu siete
 
 Povedzte Vašim národným regulačným orgánom Váš názor na nové pravidlá o neutralite siete prostredníctvom dotazníka nižšie. Po zodpovedaní ľubovoľného počtu otázok s možnosťou výberu a otvorených otázok Vám bude vygenerovaný e-mail. Váš e-mail odošleme telekomunikačným regulačným orgánom EÚ (BEREC).
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[Prijať Opatrenia](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Spread the word!
 
 [Zdieľať na Facebooku](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

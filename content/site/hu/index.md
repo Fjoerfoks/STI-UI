@@ -4,20 +4,23 @@
 - [ÜZENETKÜLDÉS](#send-a-message){: data-scroll="true" }
 - [INFORMÁCIÓ](#info){: data-scroll="true" }
 - [GYIK](faq)
+
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
-Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlési vállalatoknak arra, hogy befolyásolják mit tehetünk (és mit nem) online. Európának sürgősen szüksége van a hálózatsemlegességgel kapcsolatos világos iránymutatásokra hogy megvédhessük szabadságjogainkat és jogainkat online. ___Júliusig___ van időnk arra, hogy segítsünk Európának megvédeni a nyílt internetet.
-<br><br>
-Csatlakozzon a mozgalomhoz, cselekedjen most!
+Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlési vállalatoknak arra, hogy befolyásolják mit tehetünk (és mit nem) online. Európának sürgősen szüksége van a hálózatsemlegességgel kapcsolatos világos iránymutatásokra hogy megvédhessük szabadságjogainkat és jogainkat online. __Júliusig__ van időnk arra, hogy segítsünk Európának megvédeni a nyílt internetet.
+<br>
+<strong>Csatlakozzon a mozgalomhoz, cselekedjen most!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
-
-[CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -60,22 +63,18 @@ Ne engedje internetszolgáltatójának, hogy ő döntse el, milyen adatforgalom 
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Szólítsa fel a nemzeti szabályozó hatóságot és <br> a BEREC-et a hálózati semlegesség védelmére
 
 Az alább található kérdőív segítségével mondja el véleményét az új hálózatsemlegességi szabályokról a nemzeti szabályozó hatóságnak! Ha a feleletválasztós és a nyitott kérdések közül bármelyiket megválaszolja, a rendszer egy elektronikus üzenetet generál az Ön számára. Az Ön elektronikus üzenetét továbbítjuk az Európai Elektronikus Hírközlési Szabályozó Testülethez (BEREC).
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Mondd azt, hogy mások!
 
 [Megosztás Facebookon](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
