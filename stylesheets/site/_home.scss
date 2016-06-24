@@ -64,7 +64,7 @@
   text-align: center;
 
   iframe {
-    margin-top: 25px;
+    margin: 25px 0;
     width: 100%;
     border: none;
     border-radius: 0px;
@@ -81,58 +81,6 @@
 
   .title-subtext {
     @include setFontToBaseline(20px, 0, 0);
-  }
-
-  .counter {
-    @include susy-breakpoint($mobile, $tablet-small) {
-      width: span(22 of 24);
-      margin-left: span(1 of 24);
-    }
-
-    @include susy-breakpoint($tablet-small, $desktop-large) {
-      @include span(8 of 24);
-      margin-left:  span(8 of 24) ;
-      margin-right: span(8 of 24);
-    }
-
-    position: relative;
-    /* bottom: -40px; */
-
-    table {
-      margin-left: auto;
-      margin-right: auto;
-      width: available;
-      visibility: hidden;
-      tr {
-        td:nth-child(odd) {
-          @include setFontToBaseline(32px, 1, 1);
-          padding-left: 2rem;
-        }
-        td:nth-child(even) {
-          @include setFontToBaseline(14px, 0, 0);
-          line-height: 1;
-          letter-spacing: 0.06em;
-          text-align: left;
-          padding-left: 0.5rem;
-        }
-      }
-    }
-
-    p:last-of-type {
-      @include cf;
-      width: 100%;
-      text-align: center;
-      margin-top: 0px;
-      margin-bottom: 0px;
-      padding-left: 0 !important;
-      padding-right: 0 !important;
-      a {
-        margin-top: 0px !important;
-        margin-bottom: 0px !important;
-        margin-left: 0px !important;
-        margin-right: 0px !important;
-      }
-    }
   }
 }
 
@@ -233,6 +181,61 @@
 }
 
 .home__questionnaire__content {
+  .counter {
+    margin-top: 8px;
+    margin-bottom: 16px;
+    
+    @include susy-breakpoint($mobile, $tablet-small) {
+      width: span(22 of 24);
+      margin-left: span(1 of 24);
+    }
+
+    @include susy-breakpoint($tablet-small, $desktop-large) {
+      @include span(8 of 24);
+      margin-left:  span(8 of 24) ;
+      margin-right: span(8 of 24);
+    }
+
+    position: relative;
+    /* bottom: -40px; */
+
+    table {
+      margin-left: auto;
+      margin-right: auto;
+      width: available;
+      visibility: hidden;
+      tr {
+        td:nth-child(odd) {
+          @include setFontToBaseline(32px, 1, 1);
+          padding-left: 2rem;
+        }
+        td:nth-child(even) {
+          @include setFontToBaseline(14px, 0, 0);
+          line-height: 1;
+          letter-spacing: 0.06em;
+          text-align: left;
+          padding-left: 0.5rem;
+        }
+      }
+    }
+
+    p:last-of-type {
+      @include cf;
+      width: 100%;
+      text-align: center;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+      a {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+      }
+    }
+  }
+
   @include span(24);
   color: $sti-white;
   text-align: center;

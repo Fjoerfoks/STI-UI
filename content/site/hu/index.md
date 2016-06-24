@@ -18,11 +18,6 @@ Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlé
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -67,6 +62,12 @@ Ne engedje internetszolgáltatójának, hogy ő döntse el, milyen adatforgalom 
 # Szólítsa fel a nemzeti szabályozó hatóságot és <br> a BEREC-et a hálózati semlegesség védelmére
 
 Az alább található kérdőív segítségével mondja el véleményét az új hálózatsemlegességi szabályokról a nemzeti szabályozó hatóságnak! Ha a feleletválasztós és a nyitott kérdések közül bármelyiket megválaszolja, a rendszer egy elektronikus üzenetet generál az Ön számára. Az Ön elektronikus üzenetét továbbítjuk az Európai Elektronikus Hírközlési Szabályozó Testülethez (BEREC).
+
+{{ BEGIN COUNTER }}
+
+| X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
+
+{{ END COUNTER }}
 
 [CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }
 

@@ -17,11 +17,6 @@ Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikt
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -66,6 +61,12 @@ Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitinga
 # Paragink savo nacionalinę reguliavimo instituciją ir <br> BEREC užtikrinti tinklo neutralumą.
 
 Išdėstyk reguliavimo institucijoms savo nuomonę dėl naujų tinklo neutralumo taisyklių. Pasinaudok šio puslapio apačioje pateiktu anketos įrankiu. Jei tu atsakysi į bet kokį skaičių klausimų pirmuose trijuose menių languose, tai įrankis paskutiniame lange generuos tau el. laišką. Šį el. laišką mes įteiksime ES elektroninių ryšių reguliuotojų institucijai (BEREC), kai 2016 m. birželio mėnesį prasidės oficialios konsultacijos.
+
+{{ BEGIN COUNTER }}
+
+| X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
+
+{{ END COUNTER }}
 
 [imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }
 

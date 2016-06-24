@@ -20,11 +20,6 @@ para proteger as nossas liberdades e direitos online.<br>Temos até __Julho__ pa
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -69,6 +64,12 @@ Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel 
 # Diz aos reguladores nacionais e ao BEREC para protegerem a neutralidade da rede
 
 Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responderes às questões será gerado um email para ti próprio. O email será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
+
+{{ BEGIN COUNTER }}
+
+| X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
+
+{{ END COUNTER }}
 
 [ACTUA](#send-a-message){: id="take-action-button" data-scroll="true" }
 

@@ -18,11 +18,6 @@ Les régulateurs européens vont décider prochainement de donner aux grandes en
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES | Y | JOURS <br> RESTANT |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -67,6 +62,12 @@ Vous avez peut-être l'impression d'obtenir quelque chose gratuitement, mais vot
 # Contactez votre régulateur national et <br> l'ORECE afin qu'ils protègent la neutralité du Net 
 
 Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
+
+{{ BEGIN COUNTER }}
+
+| X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES | Y | JOURS <br> RESTANT |
+
+{{ END COUNTER }}
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 

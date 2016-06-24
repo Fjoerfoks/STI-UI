@@ -20,11 +20,6 @@ dla ochrony naszych praw i wolności w Internecie. Mamy czas aż do __lipca__, b
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | LUDZIE <br> WYSŁANE WIADOMOŚCI | Y | DNI <br> POZOSTAŁO |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -69,6 +64,12 @@ Brzmi jakbyś coś dostawał za darmo, ale zmienia twojego operatora komórkoweg
 # Powiedz swoim krajowym organom regulacyjnych i<br> BEREC, aby chronili neutralność sieci
 
 Przekaż swojemu urzędowi regulacyjnemu swoją opinię na temat nowych zasad neutralności sieci za pomocą poniższego kwestionariusza. Jeśli odpowiesz na dowolną liczbę pytań w części wielokrotnego wyboru i pytań otwartych, wygenerowany zostanie dla ciebie e-mail. Twój e-mail zostanie przedstawiony przez nas organom regulacyjnym UE (BEREC), gdy w czerwcu 2016 r. rozpoczną się oficjalne konsultacje.
+
+{{ BEGIN COUNTER }}
+
+| X | LUDZIE <br> WYSŁANE WIADOMOŚCI | Y | DNI <br> POZOSTAŁO |
+
+{{ END COUNTER }}
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 

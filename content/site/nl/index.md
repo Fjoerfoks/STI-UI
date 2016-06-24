@@ -17,11 +17,6 @@ Europese regelgevende instanties staan op het punt om te beslissen of ze grote t
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -66,6 +61,12 @@ Het lijkt of u iets gratis krijgt, maar uw mobiele operator wordt hierdoor een p
 # Vraag uw nationale regelgevende instanties en <br> BEREC om netneutraliteit te beschermen
 
 Vertel uw regelgevende instanties met behulp van de onderstaande vragenlijsttool wat u vindt van de nieuwe regels voor netneutraliteit. Als u een aantal meerkeuze- en open vragen beantwoordt, wordt een e-mail voor u gegenereerd. Uw e-mail wordt door ons naar het Orgaan van de Europese regelgevende instanties voor elektronische communicatie (BEREC) verzonden wanneer de officiële raadpleging in juni 2016 van start gaat.
+
+{{ BEGIN COUNTER }}
+
+| X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
+
+{{ END COUNTER }}
 
 [ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }
 

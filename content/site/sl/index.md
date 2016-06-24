@@ -19,13 +19,6 @@ za zaščito naših svoboščin in pravic na spletu. Do __Julija moramo__ pomaga
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
-
-
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -70,6 +63,12 @@ Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater post
 # Povejte svojim nacionalnim regulatorjem in <br> BEREC naj ščitijo internetno nevtralnost
 
 Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016.
+
+{{ BEGIN COUNTER }}
+
+| X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
+
+{{ END COUNTER }}
 
 [UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
 

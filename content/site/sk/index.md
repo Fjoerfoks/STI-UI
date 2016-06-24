@@ -18,11 +18,6 @@ Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telek
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | ĽUDÍ <br> POSLALO SPRÁVY | Y | DNÍ <br> ZOSTÁVA |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -67,6 +62,12 @@ Znie to, ako by ste dostali niečo zadarmo, no Váš mobilný operátor sa vďak
 # Povedzte Vašim národným regulačným orgánom a <br> BEREC, že chcete chrániť neutralitu siete
 
 Povedzte Vašim národným regulačným orgánom Váš názor na nové pravidlá o neutralite siete prostredníctvom dotazníka nižšie. Po zodpovedaní ľubovoľného počtu otázok s možnosťou výberu a otvorených otázok Vám bude vygenerovaný e-mail. Váš e-mail odošleme telekomunikačným regulačným orgánom EÚ (BEREC).
+
+{{ BEGIN COUNTER }}
+
+| X | ĽUDÍ <br> POSLALO SPRÁVY | Y | DNÍ <br> ZOSTÁVA |
+
+{{ END COUNTER }}
 
 [Prijať Opatrenia](#send-a-message){: id="take-action-button" data-scroll="true" }
 

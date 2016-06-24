@@ -18,11 +18,6 @@ Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-{{ BEGIN COUNTER }}
-
-| X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
-
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -67,6 +62,12 @@ Es sieht aus wie ein Gratis-Angebot, aber in Wirklichkeit verlierst du deine Wah
 # Das freie Internet ist in Gefahr! 
 
 Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet Dich nur 2 Minuten deiner Zeit, deiner Stimme Gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an das Gremium der Telekom-Regulierungsbehörden in der EU (BEREC).
+
+{{ BEGIN COUNTER }}
+
+| X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
+
+{{ END COUNTER }}
 
 [JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
