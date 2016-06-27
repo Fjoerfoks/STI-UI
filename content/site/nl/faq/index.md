@@ -218,7 +218,7 @@ Zero rating is een duidelijke schending van de regels voor netneutraliteit en mo
 
 Als datalimieten worden overschreden en bepaalde diensten met een nultarief nog steeds toegankelijk zijn terwijl de rest van internet geblokkeerd of afgeknepen is, is dit een duidelijke schending van andere bepalingen van de Verordening inzake netneutraliteit.
 
-# Transoarantie
+# Transparantie
 
 ## Welke voordelen zijn te verwachten van de nieuwe regels voor netneutraliteit? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 -       
